@@ -30,7 +30,7 @@ function Bio() {
               <p>
                 {' '}
                 Passionate about JavaScript, React Ecosystem, and Web perf.{' '}
-                Always up to experiment new things, taking up new challenges and
+                Always up to experimenting new things, taking up new challenges and
                 designing architecture. Hopes to make some impact in this
                 developer community.
               </p>
