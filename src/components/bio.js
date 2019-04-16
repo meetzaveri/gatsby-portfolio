@@ -35,13 +35,7 @@ function Bio() {
                 developer community.
               </p>
 
-              <p>
-                {' '}
-                Want to reach out? Well {` `}
-                <a href={`https://twitter.com/${social.twitter}`}>
-                  connect with me on twitter
-                </a>
-              </p>
+            
             </div>
 
             <h2>... living in beautiful land of Gujarat,India</h2>
@@ -84,6 +78,13 @@ function Bio() {
                 </li>
                 <li>Undefined/null/404</li>
               </ul>
+              <div>  <p>
+                {' '}
+                Want to reach out? Well {` `}
+                <a href={`https://twitter.com/${social.twitter}`}>
+                  connect with me on twitter
+                </a>
+              </p></div>
               <div className="db f-15">
                 <a
                   className="custom-anchor "
