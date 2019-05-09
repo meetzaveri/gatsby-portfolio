@@ -81,17 +81,17 @@ function Bio() {
               <div>  <p>
                 {' '}
                 Want to reach out? Well {` `}
-                <a href={`https://twitter.com/${social.twitter}`}>
-                  connect with me on twitter
+                <a href="https://in.linkedin.com/in/meet-zaveri-0839a511a" target="_blank">
+                  connect with me on linkedin
                 </a>
               </p></div>
               <div className="db f-15">
                 <a
                   className="custom-anchor "
-                  href="https://in.linkedin.com/in/meet-zaveri-0839a511a"
+                  href={`https://twitter.com/${social.twitter}`}
                   target="_blank"
                 >
-                  <i class="dib mr1 fab fa-linkedin" />
+                  <i class="dib mr1 fab fa-twitter" />
                 </a>
                 <a
                   className="custom-anchor "
