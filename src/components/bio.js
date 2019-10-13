@@ -60,7 +60,7 @@ function Bio() {
             <div>
               <h2> who loves to ...</h2>
               <ul>
-                <li>Build things and OSS lover</li>
+                <li>Build things and OSS enthusiast</li>
                 <li>Engage in competetive programming</li>
                 <li>Write articles about computer science</li>
                 <li>Watch football(Premier League) on weekends</li>
